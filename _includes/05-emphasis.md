@@ -1,0 +1,7 @@
+- _**Go**_
+- _**Java**_
+- _SCRUM_
+- _NODEJS_
+- **GCP**
+- **AZURE**
+- _DevOps_

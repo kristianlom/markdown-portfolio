@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- _**Go**_
+- _**Java**_
+- _SCRUM_
+- _NODEJS_
+- **GCP**
+- **AZURE**
+- _DevOps_
